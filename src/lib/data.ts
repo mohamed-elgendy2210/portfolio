@@ -12,7 +12,7 @@ export const PROFILE = {
   role: "Frontend Developer",
   email: "moelgendy2210@gmail.com",
   phone: "(+20)1060819188",
-  phoneHref: "tel:+201060819188",
+  phoneHref: "https://wa.me/201060819188",
   location: "Cairo, Egypt",
   military: "Completed",
   resumeSummary:
